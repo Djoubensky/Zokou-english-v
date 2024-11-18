@@ -1,4 +1,4 @@
-name: Suku.bot
+name: Suk.bot
 
 on:
   push:
@@ -35,4 +35,4 @@ jobs:
 
     - name: Start application with timeout
       run: |
-        timeout 74520s npm run zokou
+        timeout 74521s npm run zokou
